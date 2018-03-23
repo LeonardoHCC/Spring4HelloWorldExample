@@ -9,7 +9,7 @@ import com.websystique.spring.domain.HelloWorld;
 import com.websystique.spring.configuration.StudentConfig;
 import com.websystique.spring.domain.Student;
 import com.websystique.spring.domain.CustomerDAO;
-
+// Test
 public class AppMain {
 
 	public static void main(String args[]) {
