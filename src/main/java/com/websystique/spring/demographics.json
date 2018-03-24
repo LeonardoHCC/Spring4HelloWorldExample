@@ -1,0 +1,40 @@
+
+    
+    [
+	{
+            "name": "Bob",
+            "age": "23",
+            "major": "Computer Science"
+	},
+        {
+            "name": "Nary",
+            "age": "26",
+            "major": "Computer Science"
+	},
+        {
+            "name": "Sarah",
+            "age": "25",
+            "major": "Data Science"
+	},
+        {
+            "name": "Roger",
+            "age": "20",
+            "major": "Engineering"
+	},
+        {
+            "name": "Caleb",
+            "age": "22",
+            "major": "Chemistry"
+	},
+        {
+            "name": "Josh",
+            "age": "27",
+            "major": "Data Science"
+	},
+        {
+            "name": "Richard",
+            "age": "24",
+            "major": "Civil Engineering"
+	}
+    ]
+
